@@ -20,8 +20,8 @@
   "store.features": "功能",
   "store.ratings": "评级和评论",
   "store.description": "描述",
-  "camera.take-photo": "Take photo",
-  "oobe.country": "Is this the right country or region?",
-  "oobe.keyboard": "Is this the right keyboard layout or input method?",
-  "oobe.anotherkeyboard": "If you also use another keyboard layout, you can add that next"
+  "camera.take-photo": "拍照",
+  "oobe.country": "这是正确的国家或地区吗？",
+  "oobe.keyboard": "这是正确的键盘布局或输入法吗？",
+  "oobe.anotherkeyboard": "如果您还有使用其他的键盘布局，您可以添加下一个"
 }
